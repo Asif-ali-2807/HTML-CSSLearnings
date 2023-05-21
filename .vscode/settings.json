@@ -1,0 +1,5 @@
+{
+  "CodeGPT.apiKey": "Cohere",
+  "CodeGPT.model": "command-xlarge-nightly",
+  "CodeGPT.temperature": 0.7
+}
